@@ -1,8 +1,7 @@
 # f0xb4
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B7DD8&width=435&lines=Bug+Bounty+Hunter;QA+Engineer;Security+Mindset;Always+Learning.+Always+Hunting.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF00008&width=435&lines=Bug+Bounty+Hunter;QA+Engineer;Security+Mindset;Always+Learning.+Always+Hunting.)](https://git.io/typing-svg)
 
-> Self-taught security and QA enthusiast documenting my learning journey.
-> Bug Bounty Hunter · QA Engineer · Security Mindset to shown that
+> Bug Bounty Hunter · QA Engineer · Security Mindset to shown 
 
 Self-taught security and QA enthusiast documenting my learning journey.
 Currently focused on bug hunting, application testing, and cybersecurity.
