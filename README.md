@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B7DD8&width=435&lines=Bug+Bounty+Hunter;QA+Engineer;Security+Mindset;Always+Learning.+Always+Hunting.)](https://git.io/typing-svg)
 
-> Self-taught security and QA enthusiast documenting my learning journey.
-
+> Self-taught security and QA enthusiast documenting my learning journey ·
 > Bug Bounty Hunter · QA Engineer · Security Mindset
 
 Self-taught security and QA enthusiast documenting my learning journey.
