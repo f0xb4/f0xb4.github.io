@@ -1,9 +1,9 @@
 # f0xb4
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=880909&size=22&pause=1000&speed=40&lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=f0b4ff&size=22&pause=1000&speed=40&lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 > Self-taught security and QA enthusiast documenting my learning journey ·
-> Bug Bounty Hunter · QA Engineer · Security Mindset
+> Bug Bounty Hunter · QA Engineer · Security Mindset to shown that
 
 Self-taught security and QA enthusiast documenting my learning journey.
 Currently focused on bug hunting, application testing, and cybersecurity.
