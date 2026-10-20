@@ -1,9 +1,9 @@
 # f0xb4
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF00008&width=435&lines=Bug+Bounty+Hunter;QA+Engineer;Security+Mindset;Always+Learning.+Always+Hunting.)](https://git.io/typing-svg)
 
-> Bug Bounty Hunter · QA Engineer · Security Mindset to shown 
+> Bug Bounty Hunter · Security Mindset to shown 
 
-Self-taught security and QA enthusiast documenting my learning journey.
+Self-taught security enthusiast documenting my learning journey.
 Currently focused on bug hunting, application testing, and cybersecurity.
 
 ## What I Do
@@ -20,7 +20,7 @@ Currently focused on bug hunting, application testing, and cybersecurity.
 - Cisco Networking Security (2024)
 - Cisco Junior Cybersecurity Analyst (2024)
 - Piscine 1337 – 42 Network, Level 4 (2025)
-- ISTQB Foundation *(in progress)*
+- ISTQB Foundation 
 
 ## Portfolio
 👉 [f0xb4.github.io](https://f0xb4.github.io)
